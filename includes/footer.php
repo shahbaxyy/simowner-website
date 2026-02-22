@@ -43,6 +43,8 @@
                         <li><a href="<?php echo SITE_URL; ?>/pta-sim-verification">PTA SIM Verification</a></li>
                         <li><a href="<?php echo SITE_URL; ?>/pak-sim-data">Pak SIM Data</a></li>
                         <li><a href="<?php echo SITE_URL; ?>/live-tracker">Live Mobile Tracker</a></li>
+                        <li><a href="<?php echo SITE_URL; ?>/invoice-template">Free Invoice Template</a></li>
+                        <li><a href="<?php echo SITE_URL; ?>/receipt-maker">Free Receipt Maker</a></li>
                     </ul>
                 </div>
                 

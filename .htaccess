@@ -32,6 +32,8 @@
     RewriteRule ^privacy-policy/?$ pages/privacy-policy.php [L]
     RewriteRule ^contact-us/?$ pages/contact-us.php [L]
     RewriteRule ^disclaimer/?$ pages/disclaimer.php [L]
+    RewriteRule ^invoice-template/?$ pages/invoice-template.php [L]
+    RewriteRule ^receipt-maker/?$ pages/receipt-maker.php [L]
     
     # Remove .php extension from direct requests
     RewriteCond %{REQUEST_FILENAME} !-d
